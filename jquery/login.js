@@ -21,7 +21,7 @@ function login(e) {
     if ( email == "" || password == "")
         alert("Vui lòng nhập đầy đủ thông tin!!!");
     
-    else if(email =="an@gmail.com" && password =="123456") {
+    else if(email =="lan@gmail.com" && password =="123456") {
         alert("Đăng nhập thành công ");
         window.location.href = "../index.html";
     }   

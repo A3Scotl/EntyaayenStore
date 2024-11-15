@@ -9,7 +9,7 @@ body{
     font-family: Poppins;
     display: flex;
     flex-direction: column;
-justify-content: space-around;
+    justify-content: space-around;
 
 }
 a{
